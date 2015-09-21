@@ -1,6 +1,3 @@
-# dcgemperline.github.io 
-# README
-
 David C. Gemperline
 ===================
 
